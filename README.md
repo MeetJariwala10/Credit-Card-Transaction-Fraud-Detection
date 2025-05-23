@@ -9,6 +9,7 @@ Credit card fraud costs financial institutions and customers billions of dollars
 ## Dataset
 
 - **Source**: Publicly available credit card transactions dataset (downloaded via automated scraping script).
+- **Link**: https://www.kaggle.com/datasets/kartik2112/fraud-detection
 - **Size**: Approximately 30,000 transactions with each record labeled as fraudulent or legitimate.
 
 ## Feature Description
