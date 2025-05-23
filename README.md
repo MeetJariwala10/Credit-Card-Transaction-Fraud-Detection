@@ -2,21 +2,6 @@
 
 This repository contains a project that builds and evaluates machine learning models for detecting fraudulent credit card transactions. The work covers data acquisition, preprocessing, exploratory analysis, model training (multiple classifiers), evaluation, and key insights.
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Feature Description](#feature-description)
-- [Setup and Installation](#setup-and-installation)
-- [Data Preprocessing](#data-preprocessing)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Modeling](#modeling)
-- [Evaluation and Results](#evaluation-and-results)
-- [Final Insights](#final-insights)
-- [Repository Structure](#repository-structure)
-- [Future Work](#future-work)
-- [License](#license)
-
 ## Project Overview
 
 Credit card fraud costs financial institutions and customers billions of dollars each year. The goal of this project is to develop machine learning models that can accurately identify fraudulent transactions. We compare multiple classifiers, analyze their performance, and extract actionable insights.
